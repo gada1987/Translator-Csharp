@@ -1,0 +1,12 @@
+C:\Users\gaad\Desktop\Myfirstwindo\MyFirstWindos\MyFirstWindos\obj\Debug\MyFirstWindos.Properties.Resources.resources
+C:\Users\gaad\Desktop\Myfirstwindo\MyFirstWindos\MyFirstWindos\obj\Debug\MyFirstWindos.csproj.GenerateResource.cache
+C:\Users\gaad\Desktop\Myfirstwindo\MyFirstWindos\MyFirstWindos\obj\Debug\MyFirstWindos.csproj.CoreCompileInputs.cache
+C:\Users\gaad\Desktop\Myfirstwindo\MyFirstWindos\MyFirstWindos\bin\Debug\MyFirstWindos.exe.config
+C:\Users\gaad\Desktop\Myfirstwindo\MyFirstWindos\MyFirstWindos\bin\Debug\MyFirstWindos.exe
+C:\Users\gaad\Desktop\Myfirstwindo\MyFirstWindos\MyFirstWindos\bin\Debug\MyFirstWindos.pdb
+C:\Users\gaad\Desktop\Myfirstwindo\MyFirstWindos\MyFirstWindos\obj\Debug\MyFirstWindos.exe
+C:\Users\gaad\Desktop\Myfirstwindo\MyFirstWindos\MyFirstWindos\obj\Debug\MyFirstWindos.pdb
+C:\Users\gaad\Desktop\Myfirstwindo\MyFirstWindos\MyFirstWindos\obj\Debug\MyFirstWindos.csproj.CopyComplete
+C:\Users\gaad\Desktop\Myfirstwindo\MyFirstWindos\MyFirstWindos\obj\Debug\MyFirstWindos.csprojAssemblyReference.cache
+C:\Users\gaad\Desktop\Myfirstwindo\MyFirstWindos\MyFirstWindos\obj\Debug\MyFirstWindos.Form1.resources
+C:\Users\gaad\Desktop\Myfirstwindo\MyFirstWindos\MyFirstWindos\obj\Debug\MyFirstWindos.login.resources

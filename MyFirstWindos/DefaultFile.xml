@@ -1,0 +1,28 @@
+﻿
+
+<root>
+  <data name="senChangePassword" xml:space="preserve">
+  <value>Byt lösenord</value>
+  <comment>Sprint 02 - Jessica</comment>
+  </data>
+  <data name="senChangesWereSuccessfullySaved" xml:space="preserve">
+  <value>Ändringarna är sparade</value>
+  <comment>Sprint 02 - Jessica</comment>
+  </data>
+  <data name="senChangeUserSettings" xml:space="preserve">
+  <value>Ändra uppgifter</value>
+  <comment>Sprint 02 - Jessica</comment>
+  </data>
+  <data name="senCompareWith" xml:space="preserve">
+  <value>Jämför</value>
+  <comment>Sprint 02 - Jessica</comment>
+  </data>
+  <data name="senPasswordResetMailText" xml:space="preserve">
+  <value>Här får du ett nytt lösenord till  projektportalen.&lt;br/&gt;&lt;br/&gt;[password]&lt;br/&gt;&lt;br/&gt;Följ denna länk till projektportalen: [link]&lt;br/&gt;&lt;br/&gt;Vänliga hälsningar&lt;br/&gt;&lt;/br&gt;[manager]</value>
+  <comment>Roger 12-2015</comment>
+  </data>
+  <data name="senCreatedQuestions" xml:space="preserve">
+  <value>Skapade frågor</value>
+  <comment>Sprint 02 - Jessica</comment>
+  </data>
+</root>
